@@ -14,13 +14,13 @@
 
 ## 项目结构
 
-FFTA-PSO-GRNN/
-│
-├── FFTA_PSO_GRNN.ipynb      # 主程序 Notebook
-├── requirements.txt         # Python 依赖环境
-├── README.md                # 项目说明文件
-├── shuju/
-│   └── sample.csv           # 示例数据
+FFTA-PSO-GRNN/<br>
+│<br>
+├── FFTA_PSO_GRNN.ipynb      # 主程序 Notebook<br>
+├── requirements.txt         # Python 依赖环境<br>
+├── README.md                # 项目说明文件<br>
+├── shuju/<br>
+&emsp;└── sample.csv         # 示例数据<br>
 
 ---
 
