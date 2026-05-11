@@ -19,15 +19,15 @@ FFTA-PSO-GRNN/<br>
 ├── FFTA_PSO_GRNN.ipynb      # 主程序 Notebook<br>
 ├── requirements.txt         # Python 依赖环境<br>
 ├── README.md                # 项目说明文件<br>
-├── shuju/<br>
-&emsp;└── sample.csv         # 示例数据<br>
 
+---
+## 运行环境
+因数据集庞大无法上传，自行搜索cic-ids2017数据库进行下载，本代码读取数据的路径为代码目录下shuju文件夹。将数据放入文件夹即可。
 ---
 
 ## 运行环境
 
 - Python 3.10 及以上
-- Jupyter Notebook
 
 主要依赖库：
 
