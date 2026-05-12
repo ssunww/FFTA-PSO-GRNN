@@ -38,3 +38,13 @@ FFTA-PSO-GRNN/<br>
 - scikit-learn
 - matplotlib
 - scipy
+
+---
+## 项目声明
+
+本项目的作者及单位：
+项目名称：FFTA-PSO-GRNN
+项目作者：孙炜
+作者单位：暨南大学网络空间安全学院
+
+---
